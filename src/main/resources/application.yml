@@ -1,0 +1,5 @@
+datebase:
+  url: localhost:3306
+spring:
+  main:
+    allow-circular-references: true
